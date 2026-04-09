@@ -99,6 +99,16 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
       <sub>Fluxos de trabalho, observabilidade e suporte à decisão com qualidade.</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <br />
+      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Servi%C3%A7os_ponta_a_ponta-0f172a?style=for-the-badge&logo=githubactions&logoColor=white&color=0d9488" alt="Automacao de servicos" />
+      <img src="https://img.shields.io/badge/IA_aplicada-Neg%C3%B3cios_e_operac%C3%A3o-0f172a?style=for-the-badge&logo=openai&logoColor=white&color=6366f1" alt="IA aplicada ao negocio" />
+      <img src="https://img.shields.io/badge/Vis%C3%A3o_computacional-Imagens_e_leitura-0f172a?style=for-the-badge&logo=opencv&logoColor=white&color=dc2626" alt="Visao computacional" />
+      <br /><br />
+      <sub>O SIT vai além do TI “de guarita”: desenha automações, integra canais, reduz retrabalho e usa IA e visão computacional quando isso destrava gargalo real — inclusive onde o problema parecia não ter solução.</sub>
+    </td>
+  </tr>
 </table>
 
 <br />
@@ -114,22 +124,32 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
 
 ## Equipe SIT
 
-**Antero Lopes** · Gerente de TI
-
-- Cerca de **10 anos** em TI, com foco em **suporte** e **helpdesk** no dia a dia  
-- Conhece o **Itec** e o **Softfarma** (Linx) e a operação típica de farmácia no varejo  
-- Responsável pela gestão da área: estabilidade dos sistemas, atendimento às lojas, alinhamento com fornecedores e evolução segura da infraestrutura  
+Somos **mais do que um setor de TI**: automatizamos serviços, desenhamos integrações que seguram a operação inteira e não temos medo do problema “sem solução” — quando precisa, colocamos **IA aplicada ao negócio** e **visão computacional** para ganhar escala, precisão e previsibilidade nas lojas e na matriz.
 
 <br />
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <img src="https://ui-avatars.com/api/?name=Antero+Lopes&background=0d9488&color=fff&size=128&bold=true" width="100" height="100" alt="Antero Lopes" />
       <br /><strong>Antero Lopes</strong>
       <br /><sub>Gerente de TI</sub>
+      <br /><br />
+      <div align="center">
+        <img src="https://img.shields.io/badge/10%2B_anos-TI_e_operac%C3%A3o-0f172a?style=flat-square&logo=clockify&logoColor=white&color=0d9488" alt="10 mais anos em TI" />
+        <img src="https://img.shields.io/badge/Suporte-Helpdesk-0f172a?style=flat-square&logo=discourse&logoColor=white&color=14b8a6" alt="Suporte e helpdesk" />
+        <img src="https://img.shields.io/badge/PO-Product_Owner-0f172a?style=flat-square&logo=jira&logoColor=white&color=047857" alt="Product Owner" />
+        <img src="https://img.shields.io/badge/Gest%C3%A3o_de_crise-Incidentes-0f172a?style=flat-square&logo=statuspage&logoColor=white&color=b91c1c" alt="Gestao de crise" />
+        <br />
+        <img src="https://img.shields.io/badge/ITEC-Sistemas-065f46?style=flat-square" alt="ITEC" />
+        <img src="https://img.shields.io/badge/Softpharma-Linx-1e3a5f?style=flat-square" alt="Softpharma Linx" />
+        <img src="https://img.shields.io/badge/Linx-E--commerce-0369a1?style=flat-square&logo=shopify&logoColor=white" alt="Linx E-commerce" />
+        <img src="https://img.shields.io/badge/ERP-Integra%C3%A7%C3%B5es-57534e?style=flat-square&logo=apachekafka&logoColor=white" alt="Integracoes ERP" />
+      </div>
+      <br />
+      <p align="center"><sub>Experiência em varejo farmacêutico, estabilidade de sistemas, ponte com fornecedores e evolução segura da infraestrutura.</sub></p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <a href="https://github.com/gabriel-Dagostim">
         <img src="https://github.com/gabriel-Dagostim.png?size=100" width="100" height="100" alt="Foto de perfil do GitHub — Gabriel Dagostim" />
       </a>
@@ -168,11 +188,24 @@ A maior parte dos repositórios é **privada**; abaixo ficam indicadores fixos c
 
 **Linguagens e tecnologias em uso**
 
+<div align="center"><strong>Front-end</strong></div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,vue,mysql,mariadb,sqlite&perline=7" alt="Node.js, JavaScript, Python, Vue, MySQL, MariaDB, SQLite" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,vue&perline=6" alt="React, HTML, CSS, Tailwind, JavaScript, Vue" />
+</div>
+<br />
+<div align="center"><strong>Back-end e runtime</strong></div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet&perline=4" alt="Node.js, Python, C Sharp, dotNET" />
+</div>
+<br />
+<div align="center"><strong>Bancos e dados</strong></div>
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-relacional-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-relacional-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/SQLite-embed_%26_leve-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
 
-**Outras:** C#, .NET, Docker, Bash/PowerShell, Windows Server, integrações com ERP e ecossistema **Linx** (além de Itec / Softfarma na operação).
+**Outras no dia a dia:** Docker, Bash/PowerShell, Windows Server, filas e integrações com **ERP**, ecossistema **Linx**, automação de rotinas e ferramentas de observabilidade.
 
 <br />
 
@@ -228,4 +261,18 @@ A maior parte dos repositórios é **privada**; abaixo ficam indicadores fixos c
   <img src="https://img.shields.io/badge/Paraná-Brasil-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Paraná, Brasil" />
   <img src="https://img.shields.io/badge/SIT-Inovação_e_Tecnologia-14b8a6?style=for-the-badge&logo=azuredevops&logoColor=white" alt="SIT" />
   <img src="https://img.shields.io/badge/Rede-Farmácia_Estrela-0f766e?style=for-the-badge&logo=leaflet&logoColor=white" alt="Rede Farmácia Estrela" />
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=40&duration=2600&pause=2400&color=E11D48&center=true&vCenter=true&width=900&height=70&lines=FOCO+NA+SOLU%C3%87%C3%83O"
+    alt="Lema: FOCO NA SOLUÇÃO"
+  />
+</div>
+
+<div align="center">
+  <sub>Rede Farmácia Estrela · SIT</sub>
 </div>
