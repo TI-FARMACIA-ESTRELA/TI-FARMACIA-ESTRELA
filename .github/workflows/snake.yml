@@ -1,0 +1,38 @@
+# Gera a animação da cobrinha a partir do gráfico de contribuições do GitHub.
+# O arquivo é publicado na branch `output` para uso no README (GIF + SVG claro/escuro).
+#
+# Importante:
+# - Em um repositório de PERFIL (usuario/usuario), github.repository_owner funciona.
+# - Em repositório de ORGANIZAÇÃO, defina abaixo um usuário com contribuições visíveis no GitHub.
+name: Gerar animação da cobrinha
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Gerar SVG e GIF (contribuições)
+        uses: Platane/snk@v3
+        with:
+          # Troque pelo @ do GitHub se o dono do repositório for uma org (sem grade pessoal).
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=%230d9488&color_dots=%23e2e8f0,%23cbd5e1,%2314b8a6,%230f766e,%23064748&color_background=%230f172a
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.2.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

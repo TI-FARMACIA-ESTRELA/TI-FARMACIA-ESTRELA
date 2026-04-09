@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Farmácia Estrela  SIT</title>
+  <desc id="desc">Banner do Setor de Inovação e Tecnologia da Rede Farmácia Estrela</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#022c22"/>
+      <stop offset="55%" style="stop-color:#064e3b"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fbbf24"/>
+      <stop offset="100%" style="stop-color:#d97706"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <circle cx="1020" cy="60" r="90" fill="#14b8a6" opacity="0.08"/>
+  <circle cx="180" cy="220" r="120" fill="#fbbf24" opacity="0.06"/>
+  <g transform="translate(72 64)">
+    <path d="M28 4 L34 18 L50 20 L38 30 L42 46 L28 38 L14 46 L18 30 L6 20 L22 18 Z" fill="url(#gold)" filter="url(#glow)"/>
+    <text x="68" y="32" fill="#ecfdf5" font-family="Segoe UI, system-ui, sans-serif" font-size="36" font-weight="700">Farmácia Estrela</text>
+    <text x="68" y="72" fill="#99f6e4" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="600" letter-spacing="0.12em">SIT · SETOR DE INOVAÇÃO E TECNOLOGIA</text>
+    <text x="68" y="108" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="15">Rede paranaense · Saúde, bem-estar e tecnologia a serviço de pessoas</text>
+  </g>
+  <g transform="translate(900 180)" opacity="0.35">
+    <rect x="0" y="0" width="220" height="8" rx="4" fill="#14b8a6"/>
+    <rect x="0" y="20" width="160" height="8" rx="4" fill="#5eead4"/>
+    <rect x="0" y="40" width="190" height="8" rx="4" fill="#2dd4bf"/>
+  </g>
+</svg>
