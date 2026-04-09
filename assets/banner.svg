@@ -1,36 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Farmácia Estrela — SIT</title>
-  <desc id="desc">Banner do Setor de Inovação e Tecnologia da Rede Farmácia Estrela</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Farmácia Estrela — SIT · Perfil TI-FARMACIA-ESTRELA</title>
+  <desc id="bannerDesc">Cabeçalho com estrela vermelha estilizada, nome Farmácia Estrela e Setor de Inovação e Tecnologia.</desc>
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#022c22"/>
-      <stop offset="55%" style="stop-color:#064e3b"/>
+      <stop offset="45%" style="stop-color:#065f46"/>
       <stop offset="100%" style="stop-color:#0f172a"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fbbf24"/>
-      <stop offset="100%" style="stop-color:#d97706"/>
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#fecaca;stop-opacity:0.55"/>
+      <stop offset="55%" style="stop-color:#ef4444;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="starShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#450a0a" flood-opacity="0.45"/>
     </filter>
+    <linearGradient id="starFace" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f87171"/>
+      <stop offset="50%" style="stop-color:#dc2626"/>
+      <stop offset="100%" style="stop-color:#991b1b"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#14b8a6"/>
+      <stop offset="50%" style="stop-color:#fbbf24"/>
+      <stop offset="100%" style="stop-color:#14b8a6"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="280" fill="url(#bg)"/>
-  <circle cx="1020" cy="60" r="90" fill="#14b8a6" opacity="0.08"/>
-  <circle cx="180" cy="220" r="120" fill="#fbbf24" opacity="0.06"/>
-  <g transform="translate(72 64)">
-    <path d="M28 4 L34 18 L50 20 L38 30 L42 46 L28 38 L14 46 L18 30 L6 20 L22 18 Z" fill="url(#gold)" filter="url(#glow)"/>
-    <text x="68" y="32" fill="#ecfdf5" font-family="Segoe UI, system-ui, sans-serif" font-size="36" font-weight="700">Farmácia Estrela</text>
-    <text x="68" y="72" fill="#99f6e4" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="600" letter-spacing="0.12em">SIT · SETOR DE INOVAÇÃO E TECNOLOGIA</text>
-    <text x="68" y="108" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="15">Rede paranaense · Saúde, bem-estar e tecnologia a serviço de pessoas</text>
+  <rect width="1200" height="360" fill="url(#bgGrad)"/>
+  <circle cx="1050" cy="70" r="130" fill="#14b8a6" opacity="0.06"/>
+  <circle cx="150" cy="300" r="160" fill="#fbbf24" opacity="0.05"/>
+
+  <!-- Estrela de 5 pontas com cantos mais suaves (stroke arredondado) -->
+  <g transform="translate(175 182)" filter="url(#starShadow)">
+    <circle r="118" fill="url(#starGlow)"/>
+    <path
+      fill="url(#starFace)"
+      stroke="#7f1d1d"
+      stroke-width="5"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+      d="M 0,-102 L 24,-32 L 97,-32 L 38,12 L 60,82 L 0,42 L -60,82 L -38,12 L -97,-32 L -24,-32 Z"
+    />
+    <path
+      fill="none"
+      stroke="#fecaca"
+      stroke-width="2.5"
+      stroke-linejoin="round"
+      stroke-opacity="0.35"
+      d="M 0,-88 L 20,-30 L 82,-30 L 33,8 L 52,68 L 0,34 L -52,68 L -33,8 L -82,-30 L -20,-30 Z"
+    />
   </g>
-  <g transform="translate(900 180)" opacity="0.35">
+
+  <!-- Referência sutil a farmácia: cruz de cuidado (genérica, sem logotipo corporativo) -->
+  <g transform="translate(1020 255)" opacity="0.12">
+    <circle r="36" fill="#ecfdf5"/>
+    <path d="M-2,-18 h4 v14 h14 v4 h-14 v14 h-4 v-14 h-14 v-4 h14 z" fill="#047857"/>
+  </g>
+
+  <g transform="translate(360 78)">
+    <text x="0" y="42" fill="#fef2f2" font-family="Segoe UI, system-ui, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.02em">Farmácia Estrela</text>
+    <text x="0" y="88" fill="#5eead4" font-family="Segoe UI, system-ui, sans-serif" font-size="26" font-weight="700" letter-spacing="0.14em">SIT · INOVAÇÃO E TECNOLOGIA</text>
+    <text x="0" y="124" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="17">Perfil GitHub · @TI-FARMACIA-ESTRELA</text>
+    <text x="0" y="156" fill="#64748b" font-family="Segoe UI, system-ui, sans-serif" font-size="15">Rede paranaense · Saúde, bem-estar e tecnologia</text>
+    <rect x="0" y="178" width="420" height="5" rx="2.5" fill="url(#accentLine)" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(920 300)" opacity="0.4">
     <rect x="0" y="0" width="220" height="8" rx="4" fill="#14b8a6"/>
-    <rect x="0" y="20" width="160" height="8" rx="4" fill="#5eead4"/>
-    <rect x="0" y="40" width="190" height="8" rx="4" fill="#2dd4bf"/>
+    <rect x="0" y="18" width="150" height="8" rx="4" fill="#2dd4bf"/>
+    <rect x="0" y="36" width="190" height="8" rx="4" fill="#fbbf24"/>
   </g>
 </svg>

@@ -1,6 +1,7 @@
 <!--
+  Conta: usuario GitHub TI-FARMACIA-ESTRELA (NAO e organizacao).
   Repo perfil: TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA
-  Cobrinha: padrao = dono do repo (TI-FARMACIA-ESTRELA). Variavel SNAKE_CONTRIBUTION_USER ou input sobrescreve.
+  Cobrinha: habilite Actions e rode o workflow (ou de push em main) para criar branch output.
 -->
 
 <div align="center">
@@ -30,7 +31,7 @@
     <img src="https://img.shields.io/badge/Trabalhe_conosco-Vagas_e_cultura-0f766e?style=for-the-badge&logo=handshake&logoColor=white" alt="Trabalhe conosco" />
   </a>
   <a href="https://github.com/TI-FARMACIA-ESTRELA">
-    <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-TI--FARMACIA--ESTRELA-111827?style=for-the-badge&logo=github&logoColor=white" alt="Organização no GitHub" />
+    <img src="https://img.shields.io/badge/Perfil_GitHub-TI--FARMACIA--ESTRELA-111827?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub TI-FARMACIA-ESTRELA" />
   </a>
 </div>
 
@@ -144,9 +145,9 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
 
 ### Métricas GitHub
 
-## TI-FARMACIA-ESTRELA — dados públicos no GitHub
+## Perfil @TI-FARMACIA-ESTRELA — dados públicos
 
-<sub>Todos os cards abaixo usam a organização <a href="https://github.com/TI-FARMACIA-ESTRELA"><strong>@TI-FARMACIA-ESTRELA</strong></a> (repositórios e linguagens públicas). Serviços externos podem sofrer rate limit; se alguma imagem falhar, atualize a página mais tarde ou <a href="https://github.com/anuraghazra/github-readme-stats">hospede sua instância</a> do stats.</sub>
+<sub>Esta conta é um <strong>usuário GitHub</strong> (perfil <a href="https://github.com/TI-FARMACIA-ESTRELA">@TI-FARMACIA-ESTRELA</a>), não uma organização. Os cards usam o mesmo login. O badge de repositórios públicos usa a API <code>/users/</code>. Se imagens do Readme Stats não carregarem, o host público pode estar indisponível ou em rate limit — atualize depois ou <a href="https://github.com/anuraghazra/github-readme-stats">hospede sua instância</a>.</sub>
 
 <br />
 
@@ -154,7 +155,7 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
   <a href="https://github.com/TI-FARMACIA-ESTRELA">
     <img src="https://img.shields.io/github/stars/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA?label=Stars%20%28repo%20perfil%29&logo=github&style=for-the-badge&color=fbbf24&labelColor=0f172a" alt="Stars do repositório de perfil" />
   </a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FTI-FARMACIA-ESTRELA&query=%24.public_repos&label=Reposit%C3%B3rios+p%C3%BAblicos&logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" alt="Total de repositórios públicos da organização" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTI-FARMACIA-ESTRELA&query=%24.public_repos&label=Reposit%C3%B3rios+p%C3%BAblicos&logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" alt="Total de repositórios públicos do usuário" />
   <a href="https://github.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/commits/main">
     <img src="https://img.shields.io/github/last-commit/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA?label=%C3%9Altimo%20commit%20%28perfil%29&logo=github&style=for-the-badge&color=2dd4bf&labelColor=0f172a" alt="Último commit no repositório de perfil" />
   </a>
@@ -186,14 +187,23 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
         <img
           height="280"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
-          alt="Distribuição de linguagens nos repositórios públicos — TI-FARMACIA-ESTRELA"
+          alt="Distribuição de linguagens — TI-FARMACIA-ESTRELA"
         />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <br />
-        <sub>Repositório de perfil da organização</sub>
+        <img
+          src="https://streak-stats.demolab.com/?user=TI-FARMACIA-ESTRELA&theme=tokyonight&hide_border=true&locale=pt_BR&ring=14b8a6&fire=2dd4bf&currStreakLabel=Sequ%C3%AAncia+atual"
+          alt="Sequência de contribuições — TI-FARMACIA-ESTRELA"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br />
+        <sub>Repositório de perfil (nome = login da conta)</sub>
         <br /><br />
         <a href="https://github.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA">
           <img
@@ -264,7 +274,7 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
   />
 </p>
 
-<sub>Branch <code>output</code> · workflow <code>.github/workflows/snake.yml</code>. Por padrão a grade de contribuições usada na geração é a da conta <strong><a href="https://github.com/TI-FARMACIA-ESTRELA">TI-FARMACIA-ESTRELA</a></strong> (dono do repositório). Para usar outro login, defina a variável <code>SNAKE_CONTRIBUTION_USER</code> ou preencha o campo ao executar a Action manualmente.</sub>
+<sub><strong>Cobrinha não aparece?</strong> É preciso gerar a branch <code>output</code>: em <strong>Actions</strong> habilite workflows se solicitado, abra <strong>Gerar animacao da cobrinha</strong> e clique em <strong>Run workflow</strong> (ou faça um push em <code>main</code> após atualizar o workflow). A grade é da conta <a href="https://github.com/TI-FARMACIA-ESTRELA">TI-FARMACIA-ESTRELA</a> (perfil de usuário). Opcional: variável <code>SNAKE_CONTRIBUTION_USER</code> ou input no dispatch para outro login.</sub>
 
 <br />
 
