@@ -1,14 +1,23 @@
 <!--
-  README de perfil — github.com/TI-FARMACIA-ESTRELA
-  ─────────────────────────────────────────────────
-  • Conta de USUÁRIO com esse @: repo público nome TI-FARMACIA-ESTRELA, README na raiz (este arquivo).
-  • ORGANIZAÇÃO TI-FARMACIA-ESTRELA: repo público .github, README em profile/README.md e imagens com ../assets/...
-  • Cobrinha: se for org, em snake.yml defina github_user_name com o @ de um colaborador (ex.: Gabriel).
-  • Actions: rode "Gerar animação da cobrinha" uma vez; branch output deve existir.
+  Repo perfil org: TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA
+  Cobrinha: padrao gabriel-Dagostim (workflow). Variavel opcional SNAKE_CONTRIBUTION_USER sobrescreve.
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Farmácia Estrela — Setor de Inovação e Tecnologia" />
+  <img
+    src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/banner.svg"
+    width="100%"
+    alt="Farmácia Estrela — Setor de Inovação e Tecnologia"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=SIT+%E2%80%94+Setor+de+Inova%C3%A7%C3%A3o+e+Tecnologia;Sa%C3%BAde%2C+dados+e+experi%C3%AAncia+digital+na+Rede+Estrela"
+    alt="Texto animado: SIT, inovação e tecnologia na Rede Estrela"
+  />
 </div>
 
 <br />
@@ -21,65 +30,214 @@
     <img src="https://img.shields.io/badge/Trabalhe_conosco-Vagas_e_cultura-0f766e?style=for-the-badge&logo=handshake&logoColor=white" alt="Trabalhe conosco" />
   </a>
   <a href="https://github.com/TI-FARMACIA-ESTRELA">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-TI--FARMACIA--ESTRELA-111827?style=for-the-badge&logo=github&logoColor=white" alt="Organização no GitHub" />
   </a>
 </div>
 
 <br />
 
-## Sobre nós
-
-A **Farmácia Estrela** é uma rede paranaense construída com base em valores familiares, atendimento humanizado e compromisso real com o cuidado das pessoas. Há mais de três décadas, transformamos confiança, proximidade e dedicação em parte do nosso jeito de trabalhar.
-
-Mais do que comercializar medicamentos, buscamos oferecer uma **experiência completa em saúde, bem-estar e conveniência**. Nossas lojas são pensadas para unir conforto, modernidade e um portfólio amplo de produtos e serviços, sempre com foco na qualidade do atendimento e na relação próxima com cada cliente.
-
-Hoje, a Rede Estrela conta com **mais de 600 colaboradores** e **26 lojas** distribuídas entre Cascavel, Corbélia, Cafelândia e Assis Chateaubriand, além de uma distribuidora de medicamentos e do **maior e mais moderno laboratório de manipulação do oeste do Paraná**.
-
-Seguimos em constante evolução, crescendo com responsabilidade, inovação e o mesmo propósito que nos trouxe até aqui: **cuidar de pessoas**.
+<div align="center">
+  <img src="https://img.shields.io/badge/Colaboradores-600%2B-14b8a6?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Mais de 600 colaboradores" />
+  <img src="https://img.shields.io/badge/Lojas-26-0d9488?style=flat-square&logo=homeassistant&logoColor=white" alt="26 lojas" />
+  <img src="https://img.shields.io/badge/Cidades-4-2dd4bf?style=flat-square&logo=googlemaps&logoColor=white" alt="4 cidades" />
+  <img src="https://img.shields.io/badge/Lab_%2B_Distribuidora-Oeste_do_PR-f59e0b?style=flat-square&logo=atom&logoColor=white" alt="Laboratório e distribuidora" />
+  <img src="https://img.shields.io/badge/Stack-Cloud_%7C_Dev_%7C_Dados-6366f1?style=flat-square&logo=azuredevops&logoColor=white" alt="Stack tecnológica" />
+</div>
 
 <br />
 
-## Equipe SIT
+<img
+  src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/divider-tech.svg"
+  width="100%"
+  alt=""
+  role="presentation"
+/>
+
+<br />
+
+### Institucional
+
+## Nossa história e propósito
+
+A **Farmácia Estrela** é uma rede paranaense construída com base em valores familiares, atendimento humanizado e compromisso real com o cuidado das pessoas. Há mais de três décadas, transformamos confiança, proximidade e dedicação em parte do nosso jeito de trabalhar.
+
+Mais do que comercializar medicamentos, buscamos oferecer uma **experiência completa em saúde, bem-estar e conveniência**. Nossas lojas unem conforto, modernidade e um portfólio amplo de produtos e serviços, com foco na qualidade do atendimento e na relação próxima com cada cliente.
+
+Hoje, a Rede Estrela conta com **mais de 600 colaboradores** e **26 lojas** em Cascavel, Corbélia, Cafelândia e Assis Chateaubriand, além de uma **distribuidora** e do **maior e mais moderno laboratório de manipulação do oeste do Paraná**.
+
+Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuidar de pessoas**.
+
+<br />
+
+<img
+  src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/divider-tech.svg"
+  width="100%"
+  alt=""
+  role="presentation"
+/>
+
+### Operação digital
+
+## O que o SIT entrega
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://ui-avatars.com/api/?name=Antero+Lopes&background=0d9488&color=fff&size=128&bold=true" width="96" height="96" alt="" />
-      <br /><strong>Antero Lopes</strong>
-      <br /><sub>Gerente de TI</sub>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Infraestrutura-Estável_e_segura-0f172a?style=for-the-badge&logo=cloudflare&logoColor=14b8a6" alt="Infraestrutura" />
+      <br /><br />
+      <sub>Rede, identidade, backup e continuidade para lojas e operações centrais.</sub>
     </td>
-    <td align="center" width="50%">
-      <img src="https://ui-avatars.com/api/?name=Gabriel+Dagostim&background=0f766e&color=fff&size=128&bold=true" width="96" height="96" alt="" />
-      <br /><strong>Gabriel Dagostim</strong>
-      <br /><sub>Analista de infraestrutura e desenvolvedor pleno</sub>
+    <td align="center" width="34%">
+      <img src="https://img.shields.io/badge/Desenvolvimento-Integrações_e_produtos-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=2dd4bf" alt="Desenvolvimento" />
+      <br /><br />
+      <sub>Sistemas internos, APIs e evolução contínua da experiência digital.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Dados_%26_processos-Governança_e_automação-0f172a?style=for-the-badge&logo=databricks&logoColor=fbbf24" alt="Dados e processos" />
+      <br /><br />
+      <sub>Fluxos de trabalho, observabilidade e suporte à decisão com qualidade.</sub>
     </td>
   </tr>
 </table>
 
 <br />
 
-## Tecnologias e práticas
+<img
+  src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/divider-tech.svg"
+  width="100%"
+  alt=""
+  role="presentation"
+/>
+
+### Pessoas
+
+## Equipe SIT
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://ui-avatars.com/api/?name=Antero+Lopes&background=0d9488&color=fff&size=128&bold=true" width="100" height="100" alt="Antero Lopes" />
+      <br /><strong>Antero Lopes</strong>
+      <br /><sub>Gerente de TI</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/gabriel-Dagostim">
+        <img src="https://github.com/gabriel-Dagostim.png?size=100" width="100" height="100" alt="Foto de perfil do GitHub — Gabriel Dagostim" />
+      </a>
+      <br /><strong>Gabriel Henrique Dagostim Simões</strong>
+      <br /><sub>Analista de infraestrutura e desenvolvedor pleno</sub>
+      <br /><br />
+      <a href="https://github.com/gabriel-Dagostim">
+        <img src="https://img.shields.io/badge/GitHub-gabriel--Dagostim-181717?style=flat-square&logo=github&logoColor=white" alt="Perfil GitHub do Gabriel" />
+      </a>
+      <a href="https://www.gabrieldagostim.com">
+        <img src="https://img.shields.io/badge/Portfolio-gabrieldagostim.com-14b8a6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio do Gabriel" />
+      </a>
+      <a href="https://www.linkedin.com/in/gabriel-dagostim">
+        <img src="https://img.shields.io/badge/LinkedIn-gabriel--dagostim-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn do Gabriel" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### Métricas GitHub
+
+## Destaque — desenvolvimento & comunidade
+
+<sub>Cards dinâmicos com base em repositórios públicos do <a href="https://github.com/gabriel-Dagostim">@gabriel-Dagostim</a>.</sub>
+
+<br /><br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,linux,postgres,git,githubactions,nginx&perline=5" alt="Ícones de tecnologias" />
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          height="165"
+          src="https://github-readme-stats.vercel.app/api?username=gabriel-Dagostim&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&text_color=e2e8f0&bg_color=0f172a"
+          alt="Estatísticas do GitHub — Gabriel Dagostim"
+        />
+      </td>
+      <td align="center">
+        <img
+          height="165"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-Dagostim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
+          alt="Linguagens mais usadas — Gabriel Dagostim"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br />
+        <img
+          src="https://streak-stats.demolab.com/?user=gabriel-Dagostim&theme=tokyonight&hide_border=true&locale=pt_BR&ring=14b8a6&fire=2dd4bf&currStreakLabel=Ofensiva+atual"
+          alt="Sequência de contribuições no GitHub — Gabriel Dagostim"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
-## Linguagens mais usadas no GitHub
+<img
+  src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/divider-tech.svg"
+  width="100%"
+  alt=""
+  role="presentation"
+/>
+
+### Engenharia
+
+## Stack e práticas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,linux,postgres,git,githubactions,nginx,vscode&perline=6" alt="Infra e backend" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Front-end, integrações e tooling</sub>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,figma,webpack&perline=5" alt="Front-end e design" />
+</div>
+
+<br />
+
+<img
+  src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/divider-tech.svg"
+  width="100%"
+  alt=""
+  role="presentation"
+/>
+
+### Organização
+
+## Linguagens no GitHub da TI
 
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6"
-    alt="Linguagens mais utilizadas no GitHub"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
+    alt="Linguagens nos repositórios públicos da organização"
   />
 </div>
 
-<sub>Card baseado em repositórios públicos do usuário <code>TI-FARMACIA-ESTRELA</code>. Se a conta for organização e o card vier vazio, troque <code>username</code> na URL pelo @ de um dev do time.</sub>
+<sub>Visão agregada dos repositórios públicos da <strong>TI-FARMACIA-ESTRELA</strong>. Serviços como o card podem sofrer rate limit; se não carregar, atualize a página mais tarde.</sub>
 
-<br />
-<br />
+<br /><br />
+
+<img
+  src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/divider-tech.svg"
+  width="100%"
+  alt=""
+  role="presentation"
+/>
+
+### Animação
 
 ## Contribuições em movimento
 
@@ -98,16 +256,17 @@ Seguimos em constante evolução, crescendo com responsabilidade, inovação e o
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake.gif"
-    alt="GIF da cobrinha comendo os commits no gráfico de contribuições"
+    alt="GIF da cobrinha no gráfico de contribuições"
     width="900"
   />
 </p>
 
-<sub>GIF e SVGs vêm da branch <code>output</code> (workflow <code>.github/workflows/snake.yml</code>). Se o perfil for de <strong>organização</strong>, nas URLs acima troque <code>TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA</code> por <code>TI-FARMACIA-ESTRELA/.github</code>. Rode o workflow manualmente em Actions na primeira vez.</sub>
+<sub>Branch <code>output</code> · workflow <code>.github/workflows/snake.yml</code>. Por padrão a grade usada é a do <strong><a href="https://github.com/gabriel-Dagostim">gabriel-Dagostim</a></strong> (ajustável com a variável <code>SNAKE_CONTRIBUTION_USER</code> ou pelo input ao rodar a Action).</sub>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Paraná-Brasil-1e293b?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
-  <img src="https://img.shields.io/badge/SIT-Inovação_e_Tecnologia-14b8a6?style=flat-square&logo=azuredevops&logoColor=white" alt="SIT" />
+  <img src="https://img.shields.io/badge/Paraná-Brasil-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Paraná, Brasil" />
+  <img src="https://img.shields.io/badge/SIT-Inovação_e_Tecnologia-14b8a6?style=for-the-badge&logo=azuredevops&logoColor=white" alt="SIT" />
+  <img src="https://img.shields.io/badge/Rede-Farmácia_Estrela-0f766e?style=for-the-badge&logo=leaflet&logoColor=white" alt="Rede Farmácia Estrela" />
 </div>

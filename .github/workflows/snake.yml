@@ -1,15 +1,18 @@
-# Gera a animação da cobrinha a partir do gráfico de contribuições do GitHub.
-# O arquivo é publicado na branch `output` para uso no README (GIF + SVG claro/escuro).
+# Animacao da cobrinha a partir da grade de contribuicoes de um usuario GitHub.
+# Padrao: gabriel-Dagostim. Sobrescreva com variavel SNAKE_CONTRIBUTION_USER ou input no workflow_dispatch.
 #
-# Importante:
-# - Em um repositório de PERFIL (usuario/usuario), github.repository_owner funciona.
-# - Em repositório de ORGANIZAÇÃO, defina abaixo um usuário com contribuições visíveis no GitHub.
-name: Gerar animação da cobrinha
+# Repo: https://github.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA
+name: Gerar animacao da cobrinha
 
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+    inputs:
+      github_user_for_snake:
+        description: "Login GitHub (sem @). Vazio = variavel SNAKE_CONTRIBUTION_USER ou gabriel-Dagostim."
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -19,11 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Gerar SVG e GIF (contribuições)
+      - name: Gerar SVG e GIF (contribuicoes)
         uses: Platane/snk@v3
         with:
-          # Troque pelo @ do GitHub se o dono do repositório for uma org (sem grade pessoal).
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.github_user_for_snake != '' && github.event.inputs.github_user_for_snake || vars.SNAKE_CONTRIBUTION_USER || 'gabriel-Dagostim' }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
