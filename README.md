@@ -16,7 +16,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=SIT+%E2%80%94+Setor+de+Inova%C3%A7%C3%A3o+e+Tecnologia;Sa%C3%BAde%2C+dados+e+experi%C3%AAncia+digital+na+Rede+Estrela"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=1100&height=100&lines=SIT+%E2%80%94+Setor+de+Inova%C3%A7%C3%A3o+e+Tecnologia;Sa%C3%BAde%2C+dados+e+experi%C3%AAncia+digital+na+Rede+Estrela"
     alt="Texto animado: SIT, inovação e tecnologia na Rede Estrela"
   />
 </div>
@@ -114,6 +114,14 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
 
 ## Equipe SIT
 
+**Antero Lopes** · Gerente de TI
+
+- Cerca de **10 anos** em TI, com foco em **suporte** e **helpdesk** no dia a dia  
+- Conhece o **Itec** e o **Softfarma** (Linx) e a operação típica de farmácia no varejo  
+- Responsável pela gestão da área: estabilidade dos sistemas, atendimento às lojas, alinhamento com fornecedores e evolução segura da infraestrutura  
+
+<br />
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -143,78 +151,28 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
 
 <br />
 
-### Métricas GitHub
+### TI no GitHub
 
-## Perfil @TI-FARMACIA-ESTRELA — dados públicos
+## Números do time (visão interna)
 
-<sub>Esta conta é um <strong>usuário GitHub</strong> (perfil <a href="https://github.com/TI-FARMACIA-ESTRELA">@TI-FARMACIA-ESTRELA</a>), não uma organização. Os cards usam o mesmo login. O badge de repositórios públicos usa a API <code>/users/</code>. Se imagens do Readme Stats não carregarem, o host público pode estar indisponível ou em rate limit — atualize depois ou <a href="https://github.com/anuraghazra/github-readme-stats">hospede sua instância</a>.</sub>
+A maior parte dos repositórios é **privada**; abaixo ficam indicadores fixos combinados com a stack que mais aparece no dia a dia.
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/TI-FARMACIA-ESTRELA">
-    <img src="https://img.shields.io/github/stars/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA?label=Stars%20%28repo%20perfil%29&logo=github&style=for-the-badge&color=fbbf24&labelColor=0f172a" alt="Stars do repositório de perfil" />
-  </a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTI-FARMACIA-ESTRELA&query=%24.public_repos&label=Reposit%C3%B3rios+p%C3%BAblicos&logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" alt="Total de repositórios públicos do usuário" />
-  <a href="https://github.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/commits/main">
-    <img src="https://img.shields.io/github/last-commit/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA?label=%C3%9Altimo%20commit%20%28perfil%29&logo=github&style=for-the-badge&color=2dd4bf&labelColor=0f172a" alt="Último commit no repositório de perfil" />
-  </a>
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-23-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=14b8a6" alt="23 repositórios" />
+  <img src="https://img.shields.io/badge/Commits_%28nos_repos%29-345-111827?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a&color=2dd4bf" alt="345 commits" />
 </div>
 
-<br /><br />
+<br />
+
+**Linguagens e tecnologias em uso**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          height="165"
-          src="https://github-readme-stats.vercel.app/api?username=TI-FARMACIA-ESTRELA&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&text_color=e2e8f0&bg_color=0f172a"
-          alt="Estatísticas do GitHub — TI-FARMACIA-ESTRELA"
-        />
-      </td>
-      <td align="center">
-        <img
-          height="165"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
-          alt="Linguagens mais usadas — TI-FARMACIA-ESTRELA"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <br />
-        <img
-          height="280"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
-          alt="Distribuição de linguagens — TI-FARMACIA-ESTRELA"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <br />
-        <img
-          src="https://streak-stats.demolab.com/?user=TI-FARMACIA-ESTRELA&theme=tokyonight&hide_border=true&locale=pt_BR&ring=14b8a6&fire=2dd4bf&currStreakLabel=Sequ%C3%AAncia+atual"
-          alt="Sequência de contribuições — TI-FARMACIA-ESTRELA"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <br />
-        <sub>Repositório de perfil (nome = login da conta)</sub>
-        <br /><br />
-        <a href="https://github.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=TI-FARMACIA-ESTRELA&repo=TI-FARMACIA-ESTRELA&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
-            alt="Card do repositório TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,vue,mysql,mariadb,sqlite&perline=7" alt="Node.js, JavaScript, Python, Vue, MySQL, MariaDB, SQLite" />
 </div>
+
+**Outras:** C#, .NET, Docker, Bash/PowerShell, Windows Server, integrações com ERP e ecossistema **Linx** (além de Itec / Softfarma na operação).
 
 <br />
 
@@ -255,26 +213,14 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
 ## Contribuições em movimento
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake.svg" />
-    <img
-      alt="Animação da cobrinha sobre o gráfico de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<p align="center">
   <img
-    src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake.gif"
-    alt="GIF da cobrinha no gráfico de contribuições"
-    width="900"
+    src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Mapa de contribuicoes com cobrinha (tema escuro, cobra vermelha)"
   />
 </p>
 
-<sub><strong>Cobrinha não aparece?</strong> É preciso gerar a branch <code>output</code>: em <strong>Actions</strong> habilite workflows se solicitado, abra <strong>Gerar animacao da cobrinha</strong> e clique em <strong>Run workflow</strong> (ou faça um push em <code>main</code> após atualizar o workflow). A grade é da conta <a href="https://github.com/TI-FARMACIA-ESTRELA">TI-FARMACIA-ESTRELA</a> (perfil de usuário). Opcional: variável <code>SNAKE_CONTRIBUTION_USER</code> ou input no dispatch para outro login.</sub>
+<sub>Arquivo <code>github-contribution-grid-snake-dark.svg</code> na branch <code>output</code>, gerado pelo workflow em <code>.github/workflows/snake.yml</code>. Se sumir após um push, rode a Action de novo.</sub>
 
 <br />
 

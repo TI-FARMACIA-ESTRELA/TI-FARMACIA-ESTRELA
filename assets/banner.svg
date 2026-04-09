@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="bannerTitle bannerDesc">
-  <title id="bannerTitle">Farmácia Estrela — SIT · Perfil TI-FARMACIA-ESTRELA</title>
-  <desc id="bannerDesc">Cabeçalho com estrela vermelha estilizada, nome Farmácia Estrela e Setor de Inovação e Tecnologia.</desc>
+  <title id="bannerTitle">Farmacia Estrela - SIT - Perfil TI-FARMACIA-ESTRELA</title>
+  <desc id="bannerDesc">Cabecalho com estrela vermelha, nome Farmacia Estrela e Setor de Inovacao e Tecnologia.</desc>
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#022c22"/>
@@ -30,7 +30,6 @@
   <circle cx="1050" cy="70" r="130" fill="#14b8a6" opacity="0.06"/>
   <circle cx="150" cy="300" r="160" fill="#fbbf24" opacity="0.05"/>
 
-  <!-- Estrela de 5 pontas com cantos mais suaves (stroke arredondado) -->
   <g transform="translate(175 182)" filter="url(#starShadow)">
     <circle r="118" fill="url(#starGlow)"/>
     <path
@@ -51,17 +50,16 @@
     />
   </g>
 
-  <!-- Referência sutil a farmácia: cruz de cuidado (genérica, sem logotipo corporativo) -->
   <g transform="translate(1020 255)" opacity="0.12">
     <circle r="36" fill="#ecfdf5"/>
     <path d="M-2,-18 h4 v14 h14 v4 h-14 v14 h-4 v-14 h-14 v-4 h14 z" fill="#047857"/>
   </g>
 
   <g transform="translate(360 78)">
-    <text x="0" y="42" fill="#fef2f2" font-family="Segoe UI, system-ui, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.02em">Farmácia Estrela</text>
-    <text x="0" y="88" fill="#5eead4" font-family="Segoe UI, system-ui, sans-serif" font-size="26" font-weight="700" letter-spacing="0.14em">SIT · INOVAÇÃO E TECNOLOGIA</text>
-    <text x="0" y="124" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="17">Perfil GitHub · @TI-FARMACIA-ESTRELA</text>
-    <text x="0" y="156" fill="#64748b" font-family="Segoe UI, system-ui, sans-serif" font-size="15">Rede paranaense · Saúde, bem-estar e tecnologia</text>
+    <text x="0" y="42" fill="#fef2f2" font-family="Segoe UI, system-ui, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.02em">Farm&#225;cia Estrela</text>
+    <text x="0" y="88" fill="#5eead4" font-family="Segoe UI, system-ui, sans-serif" font-size="26" font-weight="700" letter-spacing="0.12em">SIT &#183; INOVA&#199;&#195;O E TECNOLOGIA</text>
+    <text x="0" y="124" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="17">Perfil GitHub &#183; @TI-FARMACIA-ESTRELA</text>
+    <text x="0" y="156" fill="#64748b" font-family="Segoe UI, system-ui, sans-serif" font-size="15">Rede paranaense &#183; Saude, bem-estar e tecnologia</text>
     <rect x="0" y="178" width="420" height="5" rx="2.5" fill="url(#accentLine)" opacity="0.9"/>
   </g>
 
