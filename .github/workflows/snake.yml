@@ -23,13 +23,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # Cobra: vermelho ef4444. Azul-ceu mais escuro: trocar por %230c4a6e na URL abaixo.
+      # Cobra vermelha. Nao definir color_dots aqui: tons escuros iguais ao fundo somem a grade.
+      # palette=github-dark ja traz os 5 niveis de contribuicao visiveis no SVG.
+      # Azul na cobra: trocar color_snake por %230c4a6e
       - name: Gerar SVG escuro (cobra vermelha)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.github_user_for_snake != '' && github.event.inputs.github_user_for_snake || vars.SNAKE_CONTRIBUTION_USER || github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ef4444&color_dots=%230d1117,%23161b22,%2321262d,%2330363d,%23495057
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ef4444
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.2.0
