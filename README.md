@@ -1,6 +1,6 @@
 <!--
-  Repo perfil org: TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA
-  Cobrinha: padrao gabriel-Dagostim (workflow). Variavel opcional SNAKE_CONTRIBUTION_USER sobrescreve.
+  Repo perfil: TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA
+  Cobrinha: padrao = dono do repo (TI-FARMACIA-ESTRELA). Variavel SNAKE_CONTRIBUTION_USER ou input sobrescreve.
 -->
 
 <div align="center">
@@ -144,9 +144,21 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
 
 ### Métricas GitHub
 
-## Destaque — desenvolvimento & comunidade
+## TI-FARMACIA-ESTRELA — dados públicos no GitHub
 
-<sub>Cards dinâmicos com base em repositórios públicos do <a href="https://github.com/gabriel-Dagostim">@gabriel-Dagostim</a>.</sub>
+<sub>Todos os cards abaixo usam a organização <a href="https://github.com/TI-FARMACIA-ESTRELA"><strong>@TI-FARMACIA-ESTRELA</strong></a> (repositórios e linguagens públicas). Serviços externos podem sofrer rate limit; se alguma imagem falhar, atualize a página mais tarde ou <a href="https://github.com/anuraghazra/github-readme-stats">hospede sua instância</a> do stats.</sub>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/TI-FARMACIA-ESTRELA">
+    <img src="https://img.shields.io/github/stars/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA?label=Stars%20%28repo%20perfil%29&logo=github&style=for-the-badge&color=fbbf24&labelColor=0f172a" alt="Stars do repositório de perfil" />
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FTI-FARMACIA-ESTRELA&query=%24.public_repos&label=Reposit%C3%B3rios+p%C3%BAblicos&logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" alt="Total de repositórios públicos da organização" />
+  <a href="https://github.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/commits/main">
+    <img src="https://img.shields.io/github/last-commit/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA?label=%C3%9Altimo%20commit%20%28perfil%29&logo=github&style=for-the-badge&color=2dd4bf&labelColor=0f172a" alt="Último commit no repositório de perfil" />
+  </a>
+</div>
 
 <br /><br />
 
@@ -156,15 +168,15 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
       <td align="center">
         <img
           height="165"
-          src="https://github-readme-stats.vercel.app/api?username=gabriel-Dagostim&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&text_color=e2e8f0&bg_color=0f172a"
-          alt="Estatísticas do GitHub — Gabriel Dagostim"
+          src="https://github-readme-stats.vercel.app/api?username=TI-FARMACIA-ESTRELA&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&text_color=e2e8f0&bg_color=0f172a"
+          alt="Estatísticas do GitHub — TI-FARMACIA-ESTRELA"
         />
       </td>
       <td align="center">
         <img
           height="165"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-Dagostim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
-          alt="Linguagens mais usadas — Gabriel Dagostim"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
+          alt="Linguagens mais usadas — TI-FARMACIA-ESTRELA"
         />
       </td>
     </tr>
@@ -172,9 +184,23 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
       <td align="center" colspan="2">
         <br />
         <img
-          src="https://streak-stats.demolab.com/?user=gabriel-Dagostim&theme=tokyonight&hide_border=true&locale=pt_BR&ring=14b8a6&fire=2dd4bf&currStreakLabel=Ofensiva+atual"
-          alt="Sequência de contribuições no GitHub — Gabriel Dagostim"
+          height="280"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
+          alt="Distribuição de linguagens nos repositórios públicos — TI-FARMACIA-ESTRELA"
         />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br />
+        <sub>Repositório de perfil da organização</sub>
+        <br /><br />
+        <a href="https://github.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=TI-FARMACIA-ESTRELA&repo=TI-FARMACIA-ESTRELA&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
+            alt="Card do repositório TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -214,29 +240,6 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
   role="presentation"
 />
 
-### Organização
-
-## Linguagens no GitHub da TI
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6&bg_color=0f172a"
-    alt="Linguagens nos repositórios públicos da organização"
-  />
-</div>
-
-<sub>Visão agregada dos repositórios públicos da <strong>TI-FARMACIA-ESTRELA</strong>. Serviços como o card podem sofrer rate limit; se não carregar, atualize a página mais tarde.</sub>
-
-<br /><br />
-
-<img
-  src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/main/assets/divider-tech.svg"
-  width="100%"
-  alt=""
-  role="presentation"
-/>
-
 ### Animação
 
 ## Contribuições em movimento
@@ -261,7 +264,7 @@ Seguimos evoluindo com responsabilidade, inovação e o mesmo propósito: **cuid
   />
 </p>
 
-<sub>Branch <code>output</code> · workflow <code>.github/workflows/snake.yml</code>. Por padrão a grade usada é a do <strong><a href="https://github.com/gabriel-Dagostim">gabriel-Dagostim</a></strong> (ajustável com a variável <code>SNAKE_CONTRIBUTION_USER</code> ou pelo input ao rodar a Action).</sub>
+<sub>Branch <code>output</code> · workflow <code>.github/workflows/snake.yml</code>. Por padrão a grade de contribuições usada na geração é a da conta <strong><a href="https://github.com/TI-FARMACIA-ESTRELA">TI-FARMACIA-ESTRELA</a></strong> (dono do repositório). Para usar outro login, defina a variável <code>SNAKE_CONTRIBUTION_USER</code> ou preencha o campo ao executar a Action manualmente.</sub>
 
 <br />
 
