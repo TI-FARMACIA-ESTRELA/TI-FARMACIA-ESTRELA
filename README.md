@@ -1,14 +1,10 @@
 <!--
-  README de perfil GitHub — SIT / Farmácia Estrela
+  README de perfil — github.com/TI-FARMACIA-ESTRELA
   ─────────────────────────────────────────────────
-  1) Renomeie este repositório conforme o caso:
-     • Perfil pessoal: usuario/usuario (README na raiz).
-     • Organização: org/.github (README em profile/README.md).
-  2) Substitua SEU_USUARIO pelo @ GitHub usado nas estatísticas e na cobrinha.
-  3) Substitua NOME_DO_REPO pelo nome deste repositório (ex.: mesmo usuário para perfil, ou ".github").
-  4) Se o dono do repo for uma organização, edite .github/workflows/snake.yml e defina github_user_name
-     com o @ de um colaborador (a grade de contribuições é por usuário, não por org).
-  5) Ative Actions, rode o workflow "Gerar animação da cobrinha" manualmente uma vez e aguarde a branch output.
+  • Conta de USUÁRIO com esse @: repo público nome TI-FARMACIA-ESTRELA, README na raiz (este arquivo).
+  • ORGANIZAÇÃO TI-FARMACIA-ESTRELA: repo público .github, README em profile/README.md e imagens com ../assets/...
+  • Cobrinha: se for org, em snake.yml defina github_user_name com o @ de um colaborador (ex.: Gabriel).
+  • Actions: rode "Gerar animação da cobrinha" uma vez; branch output deve existir.
 -->
 
 <div align="center">
@@ -24,7 +20,7 @@
   <a href="https://www.farmaciaestrela.com.br/conteudo/institucional/trabalhe-conosco">
     <img src="https://img.shields.io/badge/Trabalhe_conosco-Vagas_e_cultura-0f766e?style=for-the-badge&logo=handshake&logoColor=white" alt="Trabalhe conosco" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/TI-FARMACIA-ESTRELA">
     <img src="https://img.shields.io/badge/GitHub-Perfil-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -75,12 +71,12 @@ Seguimos em constante evolução, crescendo com responsabilidade, inovação e o
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-FARMACIA-ESTRELA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&title_color=2dd4bf&icon_color=14b8a6"
     alt="Linguagens mais utilizadas no GitHub"
   />
 </div>
 
-<sub>As porcentagens refletem repositórios públicos do usuário indicado. Ajuste <code>username</code> na URL ou use o mesmo <code>SEU_USUARIO</code> do restante do README.</sub>
+<sub>Card baseado em repositórios públicos do usuário <code>TI-FARMACIA-ESTRELA</code>. Se a conta for organização e o card vier vazio, troque <code>username</code> na URL pelo @ de um dev do time.</sub>
 
 <br />
 <br />
@@ -89,11 +85,11 @@ Seguimos em constante evolução, crescendo com responsabilidade, inovação e o
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPO/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPO/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake.svg" />
     <img
       alt="Animação da cobrinha sobre o gráfico de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPO/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake.svg"
       width="100%"
     />
   </picture>
@@ -101,13 +97,13 @@ Seguimos em constante evolução, crescendo com responsabilidade, inovação e o
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPO/output/github-contribution-grid-snake.gif"
+    src="https://raw.githubusercontent.com/TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA/output/github-contribution-grid-snake.gif"
     alt="GIF da cobrinha comendo os commits no gráfico de contribuições"
     width="900"
   />
 </p>
 
-<sub>GIF e SVGs são gerados pelo workflow em <code>.github/workflows/snake.yml</code> (branch <code>output</code>). Se as imagens não aparecerem, execute o workflow manualmente em Actions e verifique se substituiu <code>SEU_USUARIO</code> e <code>NOME_DO_REPO</code> nas URLs acima.</sub>
+<sub>GIF e SVGs vêm da branch <code>output</code> (workflow <code>.github/workflows/snake.yml</code>). Se o perfil for de <strong>organização</strong>, nas URLs acima troque <code>TI-FARMACIA-ESTRELA/TI-FARMACIA-ESTRELA</code> por <code>TI-FARMACIA-ESTRELA/.github</code>. Rode o workflow manualmente em Actions na primeira vez.</sub>
 
 <br />
 
