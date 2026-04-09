@@ -1,0 +1,15 @@
+# SO / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporarios
+*.log
+*.tmp
+~$*
